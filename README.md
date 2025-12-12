@@ -11,7 +11,7 @@
 
 ## 🔗 Enlaces al Proyecto
 
-📓 **Notebook Principal:** [https://colab.research.google.com/drive/1fyTevP6IlGcZjw8F28g9cc_LqmaCPa_s?usp=sharing) 
+📓 **Notebook Principal:** [Google Colab](https://colab.research.google.com/drive/1fyTevP6IlGcZjw8F28g9cc_LqmaCPa_s?usp=sharing) 
 📊 **Dataset Original:** [Global Weather Repository - Kaggle](https://www.kaggle.com/datasets/nelgiriyewithana/global-weather-repository)
    **Presentación:** [Presentación](https://www.canva.com/design/DAG2XdBF6fg/NXjpnawMmvDvBA1SqUuxDQ/edit?utm_content=DAG2XdBF6fg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 ---
