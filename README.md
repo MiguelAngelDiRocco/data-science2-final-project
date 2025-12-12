@@ -5,7 +5,7 @@
 **Institución:** Coderhouse  
 **Alumno:** Miguel Ángel Di Rocco  
 **Entrega:** Proyecto Final 
-**Fecha de Entrega:** 21/10/2025
+**Fecha de Entrega:** 12/12/2025
 
 ---
 
